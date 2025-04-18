@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://app.netlify.com/sites/eloquent-chebakia-87402e/deploys/6801af951a3c655e69f6ff47">
+    <a href="https://eloquent-chebakia-87402e.netlify.app/">
       Demo
     </a>
   </h3>
